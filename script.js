@@ -132,49 +132,49 @@ function initProjects() {
 // Gallery images arrays
 const galleryImages = {
     '1d': [
-        '/1d/11-min.jpg',
-        '/1d/12-min.jpg',
-        '/1d/13-min.jpg',
-        '/1d/14-min.jpg',
-        '/1d/15-min.jpg',
-        '/1d/16-min.jpg',
-        '/1d/17-min.jpg',
-        '/1d/18-min.jpg',
-        '/1d/19-min.jpg'
+        '1d/11-min.jpg',
+        '1d/12-min.jpg',
+        '1d/13-min.jpg',
+        '1d/14-min.jpg',
+        '1d/15-min.jpg',
+        '1d/16-min.jpg',
+        '1d/17-min.jpg',
+        '1d/18-min.jpg',
+        '1d/19-min.jpg'
     ],
     '2d': [
-        '/2d/0-min.jpg',
-        '/2d/2-min.jpg',
-        '/2d/3-min.jpg',
-        '/2d/4-min.jpg',
-        '/2d/5-min.jpg',
-        '/2d/6-min.jpg',
-        '/2d/7-min.jpg',
-        '/2d/8-min.jpg',
-        '/2d/9-min.jpg'
+        '2d/0-min.jpg',
+        '2d/2-min.jpg',
+        '2d/3-min.jpg',
+        '2d/4-min.jpg',
+        '2d/5-min.jpg',
+        '2d/6-min.jpg',
+        '2d/7-min.jpg',
+        '2d/8-min.jpg',
+        '2d/9-min.jpg'
     ],
     '3d': [
-        '/3d/0-min.jpg',
-        '/3d/01-min.jpg',
-        '/3d/1-min.jpg',
-        '/3d/2-min.jpg',
-        '/3d/3-min.jpg',
-        '/3d/4-min.jpg',
-        '/3d/5-min.jpg',
-        '/3d/6-min.jpg',
-        '/3d/7-min.jpg',
-        '/3d/8-min.jpg',
-        '/3d/9-min.jpg'
+        '3d/0-min.jpg',
+        '3d/01-min.jpg',
+        '3d/1-min.jpg',
+        '3d/2-min.jpg',
+        '3d/3-min.jpg',
+        '3d/4-min.jpg',
+        '3d/5-min.jpg',
+        '3d/6-min.jpg',
+        '3d/7-min.jpg',
+        '3d/8-min.jpg',
+        '3d/9-min.jpg'
     ],
     '4d': [
-        '/4d/1-min.jpg',
-        '/4d/2-min.jpg',
-        '/4d/3-min.jpg',
-        '/4d/4-min.jpg',
-        '/4d/5-min.jpg',
-        '/4d/6-min.jpg',
-        '/4d/7-min.jpg',
-        '/4d/8-min.jpg'
+        '4d/1-min.jpg',
+        '4d/2-min.jpg',
+        '4d/3-min.jpg',
+        '4d/4-min.jpg',
+        '4d/5-min.jpg',
+        '4d/6-min.jpg',
+        '4d/7-min.jpg',
+        '4d/8-min.jpg'
     ]
 };
 
