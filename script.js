@@ -113,9 +113,9 @@ function initProjects() {
                 const imageSrc = projectImage.src;
                 if (imageSrc.includes('/4d/')) {
                     showImagePopup(imageSrc, '4d');
-                } else if (imageSrc.includes('/3d/')) {
+                } else if (imageSrc.includes('3d')) {
                     showImagePopup(imageSrc, '3d');
-                } else if (imageSrc.includes('/2d/')) {
+                } else if (imageSrc.includes('2d')) {
                     showImagePopup(imageSrc, '2d');
                 } else {
                     showImagePopup(imageSrc, '1d');
